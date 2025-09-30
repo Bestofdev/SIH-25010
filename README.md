@@ -112,5 +112,5 @@ Agriculture, FoodTech & Rural Development
 
 ## Research and References
 <li>www.google.com</li>
-<li>farmonaut.com/precision-farming</li>
+<li>https://farmonaut.com/precision-farming</li>
 <li>https://keymakr.com/blog/ai-in-agriculture-revolutionizing-crop-management-and-yield-prediction/</li>
